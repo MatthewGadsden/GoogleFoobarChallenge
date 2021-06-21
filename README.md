@@ -32,7 +32,11 @@ needed to get from any position x on the grid to any other position y, given x
 
 Example Cases
 ==========
-Input:
-solution.solution(0, 10)
+Ex 1:
+Input: solution.solution(0, 10)
 Output: 1
+
+Ex 2:
+Input: solution.solution(35, 37)
+Output: 2
 </pre>
