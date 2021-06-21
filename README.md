@@ -33,6 +33,6 @@ needed to get from any position x on the grid to any other position y, given x
 Example Cases
 ==========
 Input:
-solution.solution(0, 11)
+solution.solution(0, 10)
 Output: 1
 </pre>
