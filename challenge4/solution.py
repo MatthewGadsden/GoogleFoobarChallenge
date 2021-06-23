@@ -1,5 +1,5 @@
-
 def solution(x, y):
+    # Your code here
     x = int(x)
     y = int(y)
     count = 0
@@ -9,14 +9,12 @@ def solution(x, y):
         elif y == 1:
             return str(count + x - 1)
         div = 1
+        if y % x == 0 or x % y == 0:
+            return "impossible"
         if y > x:
-            if x != 1 and y % x == 0:
-                return "impossible"
             div = int(y / x)
             y -= div * x
-        elif x > y:
-            if y != 1 and x % y == 0:
-                return "impossible"
+        else:
             div = int(x / y)
             x -= div * y
         count += div
