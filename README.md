@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="WMS" src="https://foobar.withgoogle.com/static/svg/logo.733f842a.svg" width="70" />
+  <img alt="Foobar Icon" src="https://github.com/user-attachments/assets/e376dcf7-d98d-4a3d-af39-1109e437adaf" width="70" />
 </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-%233573a6"/>
+  <img alt="Python Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 <h1 align="center">
   GoogleFoobarChallenge
